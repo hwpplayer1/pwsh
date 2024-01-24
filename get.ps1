@@ -1,0 +1,1 @@
+Get-ChildItem | Sort-Object -Descending | Out-Host -Paging
